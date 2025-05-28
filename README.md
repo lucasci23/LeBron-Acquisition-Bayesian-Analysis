@@ -7,8 +7,7 @@ This project applies probabilistic modeling, Bayesian inference, and decision an
 Using a Bayesian Network implemented in PyMC, the model simulates various real-world scenarios to estimate the expected utility of signing (or not signing) LeBron under different informational and operational strategies—such as conducting market research, requesting gambling background checks, or making decisions blindly.
 
 ## Tools and Technologies
-• PyMC – Probabilistic programming in Python for Bayesian modeling
-
+• PyMC – Probabilistic programming in Python for Bayesian modeling/n
 • ArviZ – Exploratory analysis of Bayesian models and MCMC diagnostics
 
 • NumPy – Scientific computing and numerical operations
