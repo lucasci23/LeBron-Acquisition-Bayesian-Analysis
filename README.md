@@ -8,6 +8,7 @@ Using a Bayesian Network implemented in PyMC, the model simulates various real-w
 
 ## Tools and Technologies
 • PyMC – Probabilistic programming in Python for Bayesian modeling
+
 • ArviZ – Exploratory analysis of Bayesian models and MCMC diagnostics
 • NumPy – Scientific computing and numerical operations
 • Matplotlib – Visualization of probabilistic outputs and diagnostic plots
